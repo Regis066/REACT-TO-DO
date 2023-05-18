@@ -8,12 +8,11 @@
 }
 
 body {
-  background: #511fce;
+  background: url('../public/budilnik-chasy-ciferblat.jpg');
   display: flex;
   justify-content: center;
   align-items: center;
   background-size: cover;
-  height: 100vh;
 }
 
 .App {
@@ -29,6 +28,7 @@ h1 {
 .TodoWrapper {
   background: #1A1A40;
   margin-top: 5rem;
+  margin-left: 40rem;
   padding: 2rem;
   border-radius: 5px;
 }
